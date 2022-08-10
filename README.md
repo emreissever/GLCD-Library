@@ -1,1 +1,4 @@
-# Graphic-LCD-Library-for-EasyPICv7-With-CCS-C
+# GLCD Library 
+
+# Graphic-LCD Library for EasyPICv7 with CCS-C
+
